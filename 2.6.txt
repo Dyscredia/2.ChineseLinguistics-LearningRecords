@@ -1,0 +1,235 @@
+2.6 How to learn linguistics
+
+In order to master the discipline of linguistics, one should carefully study the most insightful books and papers and, if possible, attend lectures by consummate practitioners—scholars who have themselves written grammars and also made a significant theoretical contribution. And one should closely study two or three good grammars.
+
+It is not enough just to read. One should also take notes—summarizing what has just been read will assist an understanding of it and provide a succinct source which can be referred back to on a later occasion. Since 1961 I have made notes on everything significant I have read (not on the poorer publications), in large hard-bound notebooks (these started at A and have now reached W).
+
+A most important piece of advice is to read the classic literature, not just things put out recently. If you wanted to become a student of film, for example, and planned to familiarize yourself with a few hundred movies, it would not do just to watch every one of the films produced during the last few years. Each year sees a handful of outstanding films, and many poor ones. What one would do is attempt to view a selection of the best films from every era since movie-making became an art. So it is with linguistics. It is most certainly not the case that books published this decade eclipse everything which has gone before.
+
+Many of the latest books are on fad theories. These may be an instantaneous centre of attention but will fade into oblivion within a decade. Many other current publications, in any year, are simply of poor quality. Rather than basking in a just-off-the-press copy of McAndrew’s Amputated syntax, much better to spend a few hours with Nida’s Morphology from 1949; it may be a little dated—just like an old film—but it includes heaps of sound methodology, which is as relevant now as then.
+
+One begins by reading the best textbooks and, if possible, attending a few good and inspiring lecture courses. Then carefully study a grammar or two. Once a basic understanding has been achieved (say, after a linguistics-packed BA or MA course), the student should undertake fieldwork on a previously undescribed (or scarcely described) language (see §2.1 and Chapter 9). Reading of classic texts and of sound grammars should continue, for the whole of a scholarly career.
+
+A further note is in order. Each linguist should attain a sound overview of the whole discipline, not just of their area of specialization. Someone planning to work on a Tibeto-Burman language, for instance, should of course study some of the best grammars of languages from this family. But they should also carefully study grammars of a couple of languages from different parts of the world, which show a quite different linguistic profile.
+
+Some suggestions for reading follow.
+
+(a) Recommended Grammars
+
+1. James A. Matisoff. 1973. The grammar of Lahu. Berkeley and Los Angeles: University of California Press. li, 673 pages; includes vocabulary but no texts.
+
+A thorough study by a scholar who plainly knows this language well and also the whole Tibeto-Burman family; includes many keen historical comments and explanations. But not the easiest of grammars to read; there are no interlinear glosses, and the list of symbols and abbreviations runs to ten pages.
+
+2. Nora C. England. 1983. A grammar of Mam, a Mayan language. Austin: University of Texas Press. xi, 353 pages; includes text but no vocabulary.
+
+A model descriptive grammar of a verb-initial language (spoken in Guatemala and Mexico) with ergative-type bound pronouns, and special classes of positionals and of relational nouns.
+
+3. R. M. W. Dixon. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press. xix, 375 pages; includes texts and vocabulary.
+
+A user-friendly grammar of an Austronesian language whose phonology and morphology are fairly straightforward, but which has many points of interest. One fault is that it lacks an index (but does include a detailed table of contents).
+
+I have published three other full-length grammars, all a little more challenging to the reader—of the Australian languages Dyirbal (1972) and Yidiñ (1977a) and of a language from the small Arawá family of Brazil, Jarawara (2004a).
+
+4. William A. Foley. 1991. The Yimas language of New Guinea. Stanford, Calif.: Stanford University Press. xvi, 490 pages; includes texts but no vocabulary.
+
+A quality grammar of a Papuan language, with a highly synthetic, yet agglutinative, verbal structure.
+
+5. Geoffrey D. Kimball. 1991. Koasati grammar. Lincoln: University of Nebraska Press. xxviii, 640 pages; includes texts but no vocabulary.
+
+A sound and cautious grammar of a language (spoken in Louisiana) from the Muskogean family, with split-S marking and switch-reference.
+
+6. Francesca C. Merlan. 1994. A grammar of Wardaman, a language of the Northern Territory of Australia. Berlin: Mouton de Gruyter. xxi, 671 pages; includes texts and vocabulary.
+
+A fascinating study of a language with pronominal prefixes to the verb, organized on a different basis from case marking on nominals.
+
+7. Nicholas D. Evans. 1995. A grammar of Kayardild, with historical-comparative notes on Tangkic. Berlin: Mouton de Gruyter. xxv, 837 pages; includes texts and dictionary.
+
+A masterly study of an Australian language with multiple case marking—an NP may be marked for its function in a subordinate clause, and for the function of that clause in the main clause, and so on.
+
+8. David E. Watters. 2002. A grammar of Kham. Cambridge: Cambridge University Press. xxv, 477 pages; includes texts and vocabulary
+
+A comprehensive grammar of a Tibeto-Burman language from Nepal, with split-ergativity, transitivity alternations, and mirativity.
+
+9. Alexandra Y. Aikhenvald. 2003. A grammar of Tariana, from northwest Amazonia. Cambridge: Cambridge University Press. xxiv, 705 pages; includes texts and vocabulary.
+
+An inspired reference grammar of an Arawak language. The multilingual milieu in which it is spoken has given rise to a combination of genetically inherited bound pronouns and areally diffused case marking.
+
+Aikhenvald has recently published The Manambu language of East Sepik, Papua New Guinea (2008), a culturally anchored reference grammar of a language with many fascinating features, including socially defined genders, and proper names which are ‘owned’.
+
+10. Nicole Kruspe. 2004. A grammar of Semelai. Cambridge: Cambridge University Press. xxv, 493 pages; includes texts and vocabulary.
+
+An in-depth description of a language from the Aslian branch of the Austroasiatic family. It features two types of morphological process, a genetically inherited non-concatenative system plus a concatenative system acquired through extended contact with Malay.
+
+11. Elizabeth Zeitoun. 2007. A grammar of Mantauran (Rukai). Taipei: Institute of Linguistics, Academia Sinica. xviii, 551 pages, includes texts and list of affixes, but no vocabulary.
+
+A comprehensive study of an Austronesian language from Taiwan, with rich morphology, fascinating properties of negators (for instance, a polar question will generally include a negator), and a number of techniques for complementation.
+
+12. N. J. Enfield. 2007. A grammar of Lao. Berlin: Mouton de Gruyter. xxvi, 567 pages, includes texts but no vocabulary.
+
+A fine grammar of an isolating language (closely related to Thai). Grammatical information which other languages code morphologically (including non-spatial setting) is here shown by particles. The syntax is centred around serial verb constructions.
+
+Nine of these grammars are based on fieldwork in a speech community where the language is actively spoken on a daily basis—Lahu, Mam, Fijian, Jarawara, Yimas, Kham, Manambu, Semelai, and Lao. Others involved working with the last generation of speakers, in a community where the language was not being passed on to children—Dyirbal, Wardaman, Kayardild, Tariana, Rukai (and probably also Koasati). For Yidiñ, I worked with the last three fluent speakers (now all deceased). The next two grammars involve work with the last speaker, and on the available materials of a language long dead.
+
+13. Kirsten Refsing. 1986. The Ainu language: The morphology and syntax of the Shizunai dialect. Aarhus, Denmark: Aarhus University Press. 301 pages; does not include texts (none could be recorded) or vocabulary.
+
+Careful grammar of a dialect of this language isolate, spoken in northern Japan. Refsing is well aware of the difficulties of working with a single speaker and takes full account of these.
+
+14. Marie-Louise Thomsen. 1984. The Sumerian language: An introduction to its history and grammatical structure. Copenhagen: Akademisk Forlag. 363 pages; includes catalogue of verbs and full information on textual sources.
+
+A first-class summary of what is known (and what is not known) about this isolate language, which ceased to be used about 1,600 bce. Scrupulous attention to all previous literature on the language, with discussion of points concerning which there is scholarly disagreement.
+
+It is also worthwhile to mention some older grammars, which are models of their kind:
+
+15. Edward Sapir. 1930. ‘Southern Paiute: A Shoshonean language’, Proceedings of the American Academy for Arts and Sciences, Volume 65, part 1, pages 1–296. Does not include texts or vocabulary.
+
+Focuses on morphological processes (with little on syntax); an acute and insightful analysis, well repaying detailed study.
+
+Sapir’s other major grammar, of Takelma (1922), is equally engrossing and worthwhile.
+
+16. Mary R. Haas. 1941. Tunica. New York: J. J. Augustin. 143 pages; includes text but no vocabulary.
+
+A tour de force, being based on work with the very last speaker (who was able to provide fluent texts) of this isolate language from Louisiana. (In 1977 Mary Haas told me that she originally wrote the grammar at twice the length, but was required by Franz Boas—editor of the Handbook in which it was to appear—to condense it, which she did by omitting many examples and some paradigms.)
+
+17. Franz Boas and Ella Deloria. 1941. Dakota grammar. Washington, DC: US Government Printing Office. xii, 183 pages.
+
+Boas, who was essentially the founder of descriptive linguistics in the USA, here teams up with native-speaker-cum-linguist Deloria for a clear and insightful description of this Siouan language. All of Boas’s other grammars—and his theoretical essays on linguistics—are eminently worthy of study.
+
+18. L. S. Freeland. 1951. Language of the Sierra Miwok. Indiana University Publications in Anthropology and Linguistics, Memoir 6. (Supplement to the International Journal of American Linguistics, Vol 17, No. 1.) vi, 199 pages; includes texts but no vocabulary
+
+Effortlessly conveys the grammatical character of this language (spoken in central California), from the Utian family. Grammatical relations are shown by an interesting interaction of case system and pronominal suffixes to the verb.
+
+A small number of grammars have been cast in terms of a formal theory; most could not be recommended. An exception is:
+
+19. Anthony J. Vitale. 1981. Swahili syntax. Dordrecht, the Netherlands: Foris. 214 pages; includes neither texts nor vocabulary.
+
+Clear, informative, and accessible account of some of the main features of Swahili syntax. Can be augmented by one of the standard accounts of morphology, such as Loogman (1965) or Ashton (1947).
+
+(b) Books on Linguistics
+
+1. Edward Sapir. 1921. Language. New York: Harcourt Brace. ix, 242 pages.
+
+A finely crafted essay on the nature of language—sounds, words, meanings, grammatical processes, how languages develop, how they influence each other. Should be read by all linguistics students in their first semester, and recurrently restudied. (There is no book that I refer to more often.)
+
+Almost everything that Sapir wrote is first-class. For instance, his Selected writings (1949), especially ‘Sound patterns in language’, ‘The psychological reality of phonemes’, ‘Language and environment’, and ‘Time perspective in Aboriginal American culture: A study in method’.
+
+2. Leonard Bloomfield. 1933. Language. New York: Holt. [Reissued in 1984 by University of Chicago Press.] ix, 566 pages.
+
+A masterpiece, now only slightly dated. The chapters on comparative-historical linguistics remain an unimpeachable introduction. Those on phonology, morphology, and syntax include many excellent insights and examples. One can readily grant allowances for such things as calling tones ‘phonemes’, and for limited ideas about meaning.
+
+3. Nicolai S. Trubetzkoy. 1939. Grundzüge der Phonologie. Travaux du Cercle Linguistique de Prague. 7. [English translation by Christine A. M. Baltaxe: 1969. Principles of phonology. Berkeley and Los Angeles: University of California Press. xvi, 344 pages.]
+
+If I had to choose one linguistics book for a desert island, this would be it. Of wondrous intellectual depth, combined with a fine cross-linguistic span. Reveals the structured nature of phonology: oppositions, markedness, units, and delimitation.
+
+4. Eugene A. Nida. 1949. Morphology: The descriptive analysis of words, 2nd edition. Ann Arbor: University of Michigan Press. xvi, 342 pages.
+
+A classic textbook, explaining the principles of morphological analysis. The procedural aspects need not be taken too seriously, but the principles involved are absolutely solid.
+
+5. Bernard Comrie. 1976. Aspect. Cambridge: Cambridge University Press. ix, 142 pages.
+
+Insightful analysis and argumentation, with detailed account of the semantics of aspect in Slavic languages.
+
+Comrie’s Language universals and linguistic theory (2nd edition, 1989) is perhaps the most reliable and readable introductory textbook on typology.
+
+6. John Lyons. 1977. Semantics (two volumes). Cambridge: Cambridge University Press. xiv, 894 pages.
+
+Parts of this are an intellectual feast—well-organized discussion, well-thought-out arguments. Clearly written, including many original (sometimes provocative) ideas. However, not too much attention is paid to unfamiliar languages (a large proportion of the examples are from English and French).
+
+Lyons’s other major work, Introduction to theoretical linguistics (1968), was a valuable publication at the time, but is now—unlike, say, Sapir’s Language—somewhat outdated, especially sections on transitivity (and ‘ergativity’).
+
+7. P. H. Matthews. 1981. Syntax. Cambridge: Cambridge University Press. xix, 306 pages.
+
+8. P. H. Matthews. 1991. Morphology, 2nd edition. Cambridge: Cambridge University Press. xii, 251 pages.
+
+These are both rewarding texts, providing a synthesis of the field, with incisive discussion of alternative approaches and argumentations.
+
+The concise Oxford dictionary of linguistics by Matthews (1997) is an indispensable tool, with definitions that are informative and to the point (and sometimes also witty).
+
+9. Timothy Shopen. 1985. Editor of Language typology and syntactic descriptions. Cambridge: Cambridge University Press. Three volumes x, 399; x, 317; xii, 427 pages.
+
+Contains eighteen chapters covering most recurrent categories and construction types. As would be expected with a variety of authors, the quality varies, but overall this constitutes an indispensable source-book.
+
+A second edition was published in 2007. A number of chapters are by the original authors, some only slightly revised (when a thorough updating was needed), some appropriately revised, and others completely rewritten (opinions will vary on whether the 1985 or 2007 version is the more useful). A number of chapters are by new authors, and are up to date and good; a couple of new chapters have been added. Unaccountably, chapters on causatives and on negation (highspots of the 1985 edition) have been omitted.
+
+10. R. M. W. Dixon. 1994. Ergativity. Cambridge: Cambridge University Press. xxii, 271 pages.
+
+An account of the nature of grammatical relations, and how languages may combine ergative and accusative characteristics at both morphological and syntactic levels.
+
+Volumes edited by Dixon and Aikhenvald on ‘word’ (2002), ‘adjective classes’ (2004), and ‘complementation’ (2006)—and by Aikhenvald and Dixon on ‘serial verb constructions’ (2006)—each include, in the first chapter, an outline of the parameters of variation, followed by a series of informed case studies, each dealing with a language on which the author has undertaken extensive fieldwork (and, in almost every case, written a grammar of).
+
+11. Peter Ladefoged and Ian Maddieson. 1996. The sounds of the world’s languages. Oxford: Blackwell. xxi, 426 pages.
+
+A thorough and insightful study, describing every type of parameter for speech production, their interrelations, physiological bases, and functional correlates.
+
+12. Greville G. Corbett. 2000. Number. Cambridge: Cambridge University Press. xx, 358 pages.
+
+Sound cross-linguistic survey of how a number system may be realized in different areas of a grammar.
+
+13. Alexandra Y. Aikhenvald. 2000. Classifiers: A typology of noun categorization devices. Oxford: Oxford University Press. xxvi, 535 pages.
+
+A comprehensive cross-linguistic study of classifiers, noun classes, and genders. Consolidates previous work in the field, in terms of an original and overarching theoretical model.
+
+Aikhenvald’s study of Evidentiality (2004) provides a theoretical overview of how around one-quarter of the world’s languages include in their grammar some means for specifying the evidence on which a statement is based (seen, heard, inferred, reported, etc.). And her monograph Imperatives and commands is due to be published in 2010.
+
+Each student of linguistics should spend some time studying the writing of leading figures in the field. Sapir, Bloomfield, and Trubetzkoy were included above; five others should also be mentioned.
+
+14. Ferdinand de Saussure. 1916. Cours de linguistique générale. Paris. 336 pages. [Available in two English translations, as Course in general linguistics.]
+
+Notes by his students on Saussure’s lectures, arranged (and edited) into a book. A classic which helped define modern linguistics (although some of the ideas have been misinterpreted).
+
+15. Otto Jespersen. 1924. The philosophy of grammar. London: Allen and Unwin. 359 pages.
+
+An impressive synthesis of typological theory at that point in time. Asks important questions and provides thoughtful and thorough answers. It may appear a little outdated but it is still worthwhile examining what Jespersen had to say on virtually any topic.
+
+Jespersen wrote several other important books, most notably his seven-part A modern English grammar, on historical principles (1909–49) which stands up against any modern grammar of the language.
+
+16. Antoine Meillet. 1925. La Méthode comparative en linguistique historique. Oslo: Instituttet for Sammenlignende Kulturforskning. viii, 166 pages. [English translation by Gordon B. Ford, Jr. 1967. The comparative method in historical linguistics. Paris: Champion. 138 pages.]
+
+Simply the clearest and soundest introduction to the principles of historical linguistics. Meillet wrote many other books (quite a few translated into English), all intellectually rewarding.
+
+17. Émile Benveniste. 1966. Problèmes de linguistique générale. Paris: Gallimard. 356 pages. [English translation by Mary E. Meek: 1971. Problems in general linguistics. Coral Gables, Fla.: University of Miami Press. x, 317 pages.]
+
+A collection of 28 essays, focusing mostly on Indo-European languages but with wide relevance. Each chapter makes an important theoretical point. As with Meillet—and also Jespersen, Boas, Sapir, Bloomfield, Trubetzkoy, and Jakobson—his many other writings are uniformly worthwhile.
+
+18. Roman Jakobson. 1990. On language (edited by Linda R. Waugh and Monique Monville-Burston). Cambridge, Mass.: Harvard University Press. xx, 646 pages.
+
+A felicitous selection from the voluminous writings of the scholar who introduced such terms as ‘structuralism’ (in 1929). Includes many classic papers, each a gem of insight and explanation.
+
+(c) Papers on Linguistics
+
+1. Yuen-Ren Chao. 1934. ‘The non-uniqueness of phonemic solutions of phonetic systems’, Bulletin of the Institute of History and Philology, Academia Sinica 4: 363–97. [Reprinted as pages 38–54 of Joos 1958.]
+
+Both a fine exposition of the idea of phoneme, and an original and insightful discussion of alternative phonemic treatments for a given set of phonetic data.
+
+2. Morris Swadesh and Charles F. Voegelin. 1939. ‘A problem in phonological alternation’, Language 15: 1–10.
+
+Demonstration of how a seemingly irregular paradigm in the Uto-Aztecan language Tübatulabal can be explained by nifty use of morphophonemes.
+
+3. Kenneth L. Pike. 1947a. ‘Grammatical prerequisites to phonemic analysis’, Word 3: 155–72; and 1952. ‘More on grammatical prerequisites’, Word 8: 108–21.
+
+Masterly demonstration of how different levels of analysis interact. (Arguing against the ‘discovery procedures’ and ‘watertight levels’ of much American work of that period.)
+
+4. Charles C. Fries and Kenneth L. Pike. 1949. ‘Coexistent phonemic systems’, Language 25: 29–50.
+
+Describes how there can be distinct phonological systems applying to borrowed and to native forms in a language, and related issues.
+
+5. Dwight L. Bolinger. 1950. ‘Rime, assonance and morpheme analysis’, Word 6: 117–36.
+
+An important discussion of just how far morphological analysis may be taken (with allusions to sound symbolism). Bolinger was an outstanding linguist and his many other papers and books are heartily recommended.
+
+6. Edward L. Keenan and Bernard Comrie. 1977. ‘Noun phrase accessibility and universal grammar’, Linguistic Inquiry 8: 63–99; and 1979. ‘Data on the Noun Phrase Accessibility Hierarchy’, Language 55: 333–51.
+
+Based on a cross-linguistic study of relative clauses, establishes a hierarchy for determining which grammatical relations can be the common argument in a relative clause.
+
+7. Paul J. Hopper and Sandra A. Thompson. 1980. ‘Transitivity in grammar and discourse’, Language 56: 251–99.
+
+A searching and well-illustrated presentation of semantic parameters which interact to provide the basis for the distinction between transitive and intransitive verbs in individual languages. Note that transitivity is a syntactic category, which has semantic grounding. It is not useful to talk of ‘semantic transitivity’ (as Hopper and Thompson imply one could), only of the underlying semantics of verbs which are classed as transitive and as intransitive in each language. This is further discussed in Chapter 13.
+
+8. Marianne Mithun. 1984. ‘The evolution of noun incorporation’, Language 60: 847–94.
+
+An exciting cross-linguistic study of a phenomenon which lies at the intersection of syntax and morphology.
+
+9. John Du Bois. 1987. ‘The discourse basis of ergativity’, Language 63: 805–55.
+
+Shows that, although the topic running through a stretch of discourse is most likely to be in A or S function in each clause, when some new information is introduced into a discourse it is predominantly in S or O function for first mention.
+
+Other important books and papers relating to particular grammatical topics are referred to in the appropriate chapters of Volumes 2 and 3
